@@ -1,0 +1,1 @@
+Folder to store the code for the bot  related to the Hacking your Working from Home with Azure project

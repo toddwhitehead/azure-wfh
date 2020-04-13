@@ -1,0 +1,1 @@
+Folder to store the blog posts relate to the Hacking your Working from Home with Azure project
